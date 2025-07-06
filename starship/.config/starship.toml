@@ -1,6 +1,6 @@
 format = """
 [╭╴](#eff1f3)\
-[  ](bg:#ffc833 fg:#333745)\
+[  ](bg:#ffc833 fg:#333745)\
 [](bg:#769ff0 fg:#ffc833)\
 $directory\
 [](fg:#769ff0 bg:#394260)\
